@@ -115,7 +115,7 @@
             "viewName": "global.demo.treetable.view.App",
             "type": "XML",
             "async": true,
-            "id": "App"
+            "id": "AppRoot"
         }
     },
     "sap.cloud": {
